@@ -1,0 +1,4 @@
+#!bin/bash
+#!/bin/bash
+
+PH=$(curl -sL http://54.205.19.76/latest/metadata/public-ipv4)
